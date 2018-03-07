@@ -1,0 +1,45 @@
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csprojResolveAssemblyReference.cache
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Form1.resources
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Properties.Resources.resources
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csproj.GenerateResource.Cache
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe.config
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.pdb
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.exe
+C:\Users\matej\Documents\Visual Studio 2017\Projects\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.pdb
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe.config
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.exe
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.pdb
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.pdb
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Form1.resources
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Properties.Resources.resources
+C:\Users\Ucenik-SM-09.PRVA\Desktop\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csproj.GenerateResource.Cache
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe.config
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.exe
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.pdb
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.pdb
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\mscorlib.dll
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\normidna.nlp
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\normnfc.nlp
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\normnfd.nlp
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\normnfkc.nlp
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\bin\Debug\normnfkd.nlp
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Form1.resources
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Properties.Resources.resources
+C:\Users\Ucenik-SI-02.PRVA\Desktop\Slagalica-master\Slagalica-master\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csproj.GenerateResource.Cache
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe.config
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.exe
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\slovonaslovotest.pdb
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\MetroFramework.Design.dll
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\MetroFramework.dll
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csprojResolveAssemblyReference.cache
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Form1.resources
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.Properties.Resources.resources
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.csproj.GenerateResource.Cache
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.exe
+C:\Users\matej\Desktop\slovonaslovotest\slovonaslovotest\obj\Debug\slovonaslovotest.pdb
