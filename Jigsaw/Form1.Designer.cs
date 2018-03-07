@@ -366,7 +366,7 @@ namespace Jigsaw
             this.metroPanel1.HorizontalScrollbarBarColor = true;
             this.metroPanel1.HorizontalScrollbarHighlightOnWheel = false;
             this.metroPanel1.HorizontalScrollbarSize = 11;
-            this.metroPanel1.Location = new System.Drawing.Point(22, 270);
+            this.metroPanel1.Location = new System.Drawing.Point(22, 220);
             this.metroPanel1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.metroPanel1.Name = "metroPanel1";
             this.metroPanel1.Size = new System.Drawing.Size(787, 304);
@@ -575,11 +575,12 @@ namespace Jigsaw
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Jigsaw.Properties.Resources.Logo32;
+            this.pictureBox2.BackgroundImage = global::Jigsaw.Properties.Resources.Logo32;
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox2.Location = new System.Drawing.Point(183, 4);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(37, 34);
+            this.pictureBox2.Size = new System.Drawing.Size(39, 34);
             this.pictureBox2.TabIndex = 60;
             this.pictureBox2.TabStop = false;
             // 
@@ -753,6 +754,7 @@ namespace Jigsaw
             // 
             // metroPanel2
             // 
+            this.metroPanel2.Controls.Add(this.metroPanel3);
             this.metroPanel2.Controls.Add(this.metroTile75);
             this.metroPanel2.Controls.Add(this.metroTile71);
             this.metroPanel2.Controls.Add(this.pictureBox3);
@@ -1687,7 +1689,7 @@ namespace Jigsaw
             this.metroPanel3.HorizontalScrollbarBarColor = true;
             this.metroPanel3.HorizontalScrollbarHighlightOnWheel = false;
             this.metroPanel3.HorizontalScrollbarSize = 10;
-            this.metroPanel3.Location = new System.Drawing.Point(165, 168);
+            this.metroPanel3.Location = new System.Drawing.Point(0, 0);
             this.metroPanel3.Name = "metroPanel3";
             this.metroPanel3.Size = new System.Drawing.Size(494, 460);
             this.metroPanel3.Style = MetroFramework.MetroColorStyle.Silver;
@@ -2514,7 +2516,7 @@ namespace Jigsaw
             this.metroPanel4.HorizontalScrollbarBarColor = true;
             this.metroPanel4.HorizontalScrollbarHighlightOnWheel = false;
             this.metroPanel4.HorizontalScrollbarSize = 11;
-            this.metroPanel4.Location = new System.Drawing.Point(22, 270);
+            this.metroPanel4.Location = new System.Drawing.Point(22, 216);
             this.metroPanel4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.metroPanel4.Name = "metroPanel4";
             this.metroPanel4.Size = new System.Drawing.Size(787, 304);
@@ -2529,27 +2531,30 @@ namespace Jigsaw
             // metroTile135
             // 
             this.metroTile135.ActiveControl = null;
-            this.metroTile135.Location = new System.Drawing.Point(626, 184);
+            this.metroTile135.Location = new System.Drawing.Point(675, 184);
             this.metroTile135.Name = "metroTile135";
-            this.metroTile135.Size = new System.Drawing.Size(100, 45);
+            this.metroTile135.Size = new System.Drawing.Size(51, 45);
             this.metroTile135.TabIndex = 63;
             this.metroTile135.Tag = "CheckerButton";
-            this.metroTile135.Text = "CHECK";
+            this.metroTile135.TileImage = global::Jigsaw.Properties.Resources.check32;
+            this.metroTile135.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile135.TileTextFontWeight = MetroFramework.MetroTileTextWeight.Regular;
             this.metroTile135.UseSelectable = true;
+            this.metroTile135.UseTileImage = true;
             // 
             // metroTile136
             // 
             this.metroTile136.ActiveControl = null;
-            this.metroTile136.Location = new System.Drawing.Point(626, 131);
+            this.metroTile136.Location = new System.Drawing.Point(675, 130);
             this.metroTile136.Name = "metroTile136";
-            this.metroTile136.Size = new System.Drawing.Size(100, 45);
+            this.metroTile136.Size = new System.Drawing.Size(51, 45);
             this.metroTile136.TabIndex = 62;
             this.metroTile136.Tag = "UndoButton";
-            this.metroTile136.Text = "UNDO";
+            this.metroTile136.TileImage = global::Jigsaw.Properties.Resources.undo32v2;
             this.metroTile136.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile136.TileTextFontWeight = MetroFramework.MetroTileTextWeight.Regular;
             this.metroTile136.UseSelectable = true;
+            this.metroTile136.UseTileImage = true;
             // 
             // metroTile137
             // 
@@ -2747,7 +2752,7 @@ namespace Jigsaw
             // 
             // 
             this.metroTextBox5.CustomButton.Image = null;
-            this.metroTextBox5.CustomButton.Location = new System.Drawing.Point(520, 1);
+            this.metroTextBox5.CustomButton.Location = new System.Drawing.Point(577, 1);
             this.metroTextBox5.CustomButton.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.metroTextBox5.CustomButton.Name = "";
             this.metroTextBox5.CustomButton.Size = new System.Drawing.Size(43, 43);
@@ -2769,7 +2774,7 @@ namespace Jigsaw
             this.metroTextBox5.SelectionLength = 0;
             this.metroTextBox5.SelectionStart = 0;
             this.metroTextBox5.ShortcutsEnabled = true;
-            this.metroTextBox5.Size = new System.Drawing.Size(564, 45);
+            this.metroTextBox5.Size = new System.Drawing.Size(621, 45);
             this.metroTextBox5.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox5.TabIndex = 39;
             this.metroTextBox5.Tag = "CheckFeedback";
@@ -2819,7 +2824,7 @@ namespace Jigsaw
             // 
             // 
             this.metroTextBox7.CustomButton.Image = null;
-            this.metroTextBox7.CustomButton.Location = new System.Drawing.Point(520, 1);
+            this.metroTextBox7.CustomButton.Location = new System.Drawing.Point(577, 1);
             this.metroTextBox7.CustomButton.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.metroTextBox7.CustomButton.Name = "";
             this.metroTextBox7.CustomButton.Size = new System.Drawing.Size(43, 43);
@@ -2841,7 +2846,7 @@ namespace Jigsaw
             this.metroTextBox7.SelectionLength = 0;
             this.metroTextBox7.SelectionStart = 0;
             this.metroTextBox7.ShortcutsEnabled = true;
-            this.metroTextBox7.Size = new System.Drawing.Size(564, 45);
+            this.metroTextBox7.Size = new System.Drawing.Size(621, 45);
             this.metroTextBox7.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox7.TabIndex = 37;
             this.metroTextBox7.Tag = "CurrentWord";
@@ -2855,7 +2860,6 @@ namespace Jigsaw
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(864, 682);
             this.Controls.Add(this.metroPanel4);
-            this.Controls.Add(this.metroPanel3);
             this.Controls.Add(this.metroPanel2);
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroComboBox1);
